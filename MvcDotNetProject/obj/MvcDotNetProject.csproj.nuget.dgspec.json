@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\source\\repos\\EFRepo\\MvcDotNetProject\\MvcDotNetProject\\MvcDotNetProject.csproj": {}
+    "C:\\Users\\Dell\\Documents\\CategoryProject\\MvcDotNetProject\\MvcDotNetProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\source\\repos\\EFRepo\\MvcDotNetProject\\MvcDotNetProject\\MvcDotNetProject.csproj": {
+    "C:\\Users\\Dell\\Documents\\CategoryProject\\MvcDotNetProject\\MvcDotNetProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\EFRepo\\MvcDotNetProject\\MvcDotNetProject\\MvcDotNetProject.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\CategoryProject\\MvcDotNetProject\\MvcDotNetProject.csproj",
         "projectName": "MvcDotNetProject",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\EFRepo\\MvcDotNetProject\\MvcDotNetProject\\MvcDotNetProject.csproj",
+        "projectPath": "C:\\Users\\Dell\\Documents\\CategoryProject\\MvcDotNetProject\\MvcDotNetProject.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\EFRepo\\MvcDotNetProject\\MvcDotNetProject\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\CategoryProject\\MvcDotNetProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -67,7 +67,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.3.0, )"
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
